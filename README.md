@@ -7,4 +7,3 @@
 | Home                            | Result                              |
 |-------------------------------- | ----------------------------------- |
 | ![Home](./Screenshots/main.png) | ![Result](./Screenshots/result.png) |
-
